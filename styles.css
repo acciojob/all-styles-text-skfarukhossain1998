@@ -1,2 +1,15 @@
-
-/* Your CSS Code here. */
+div{
+	width:200px;
+	padding:10px;
+	background-color:purple;
+	 border-left-width: 5px;
+	 border-left-style: solid;
+	  border-left-color: green;
+	
+}
+h3{
+	font-style: normal;
+	text-decoration: underline;
+	font-size:20px;
+	color:white;
+}
